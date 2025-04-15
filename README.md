@@ -10,3 +10,5 @@ Please read [LICENSE](LICENSE) to ensure you have license to do what you want wi
 ## Contributing
 
 You can learn how to contribute to KoboldKare by reading [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Testing if my github desktop app is using the right fork, please ignore
